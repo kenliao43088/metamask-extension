@@ -358,7 +358,7 @@
     "@metamask/snaps-execution-environments": "^6.7.2",
     "@metamask/snaps-rpc-methods": "^11.1.1",
     "@metamask/snaps-sdk": "^6.5.1",
-    "@metamask/snaps-utils": "^8.1.1",
+    "@metamask/snaps-utils": "^12.1.0",
     "@metamask/transaction-controller": "^37.0.0",
     "@metamask/user-operation-controller": "^13.0.0",
     "@metamask/utils": "^9.1.0",
